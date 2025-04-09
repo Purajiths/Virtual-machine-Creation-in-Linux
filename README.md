@@ -1,6 +1,8 @@
- # VIRTUAL MACHINE CREATION IN LINUX
-  ## AIM
-       To Install Virtualbox / VMware Workstation with different flavours of linux.
+## NAME: PURAJITH S
+## REG NO: 212223040158
+# VIRTUAL MACHINE CREATION IN LINUX
+## AIM
+    To Install Virtualbox / VMware Workstation with different flavours of linux.
 ## PROBLEM STATEMENT
     Manually executing basic Linux tasks like file management, navigation, and arithmetic operations can be inefficient. This experiment aims to automate these tasks using Bash scripting, including:
 
